@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahisha-patel.
 - 👀 I love to code and write articles as well!
-- 🌱 Currently exploring the wonders of Data Science!
+- 🌱 Currently exploring the wonders of Computer Science!
 - 📫 Reach me at: https://www.linkedin.com/in/mahisha-patel/
 
 <!---
